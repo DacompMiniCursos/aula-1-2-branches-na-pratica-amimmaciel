@@ -10,4 +10,6 @@ Esta secao sera atualizada na branch `feature/sobre`.
 
 ## Contato
 
-Esta secao sera atualizada na branch `feature/contato`.
+Autor: Amim Maciel
+
+GitHub: [amimmaciel](https://github.com/amimmaciel)
