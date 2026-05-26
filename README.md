@@ -10,4 +10,6 @@ Este repositorio foi usado para praticar fluxos paralelos com Git, criando branc
 
 ## Contato
 
-Esta secao sera atualizada na branch `feature/contato`.
+Autor: Amim Maciel
+
+GitHub: [amimmaciel](https://github.com/amimmaciel)
