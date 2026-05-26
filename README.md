@@ -6,7 +6,7 @@ Projeto da missao basica da Aula 1.2 do minicurso Git & GitHub do DACOMP.
 
 ## Sobre
 
-Esta secao sera atualizada na branch `feature/sobre`.
+Este repositorio foi usado para praticar fluxos paralelos com Git, criando branches separadas para alteracoes independentes.
 
 ## Contato
 
